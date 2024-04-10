@@ -73,3 +73,8 @@ An intuitive interface is essential for engaging participants. The dApp should o
 ### Security Measures:
 
 Given the financial stakes involved and the utilization of blockchain bridges, the dApp must implement robust security measures to prevent fraud, maintain transaction integrity, and safeguard user interests.
+
+
+## Proof of testnet interaction
+- [sendTx](https://optimism-sepolia.blockscout.com/tx/0xd679fc3331f3dfb089efde1ad5d04305839e3523f0c441075b8c082b2b6df1d7)
+- [recvTx](https://optimism-sepolia.blockscout.com/tx/0xe29b6003c734ec5e14a5712ef5d79bcb0d149b8cb23accb7691995f0550c36e3)
