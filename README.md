@@ -29,7 +29,7 @@ npm start
 ```
 - You site at: http://localhost:3000/ 
 
-2. For Back-end, You clone the project at [here](https://github.com/bridge-lottery/lottery-service)
+2. For Back-end, You clone the project at [here](https://github.com/Gpaul26/lottery-service)
 
 - Set up and run it by: 
 ```bash
@@ -37,7 +37,7 @@ npm install &&
 nodemon app.js
 ```
 
-3. For Contract, you clone the project at [here](https://github.com/bridge-lottery/ibc-app-solidity-template). In this repo, following the readme to install and temperarilly deploy contracts and send packets.
+3. For Contract, you clone the project at [here](https://github.com/Gpaul26/ibc-app-solidity-template). In this repo, following the readme to install and temperarilly deploy contracts and send packets.
 
 ## Key Feature
 
